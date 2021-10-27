@@ -4,3 +4,4 @@ FOR RUN THIS PROJECT IN TERMINAL:
 cd First_project
 export=PYTHONPATH=${PWD}
 seaborn==0.10.0
+matplotlib==3.1.3

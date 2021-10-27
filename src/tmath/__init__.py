@@ -1,2 +1,3 @@
-import src.tmath.product_tow_number
-import src.tmath.sum_of_tow_number
+from src.tmath import *
+
+__all__ = ['diffration', 'integral', 'product_tow_number', 'sum_of_tow_number']
